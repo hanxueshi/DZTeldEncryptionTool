@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
   s.name             = "DZTeldEncryptionTool" 
-  s.version          = "1.0.0" 
+  s.version          = "1.0.1" 
   s.summary          = "APP配置,版本配置的信息" 
   s.homepage         = "https://github.com/hanxueshi/DZTeldEncryptionTool"   
   s.license          = 'MIT'  
